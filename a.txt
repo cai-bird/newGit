@@ -11,3 +11,4 @@ dev update 01
 master update 01
 dev update 02
 push origin master
+service update 01
